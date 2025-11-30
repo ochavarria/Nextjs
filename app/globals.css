@@ -1,26 +1,42 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
-}
+@theme {
+  /* Tech Blue Scale - Primary technology color */
+  --color-tech-blue-900: #0a0e27;
+  --color-tech-blue-800: #1e3a8a;
+  --color-tech-blue-700: #2563eb;
+  --color-tech-blue-600: #3b82f6;
+  --color-tech-blue-500: #60a5fa;
+  --color-tech-blue-400: #93c5fd;
+  --color-tech-blue-300: #bfdbfe;
+  --color-tech-blue-200: #dbeafe;
+  --color-tech-blue-100: #eff6ff;
+  --color-tech-blue-50: #f0f9ff;
 
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
+  /* Tech Cyan Scale - Code & digital accent */
+  --color-tech-cyan-900: #083344;
+  --color-tech-cyan-800: #155e75;
+  --color-tech-cyan-700: #0891b2;
+  --color-tech-cyan-600: #06b6d4;
+  --color-tech-cyan-500: #00d4ff;
+  --color-tech-cyan-400: #22d3ee;
+  --color-tech-cyan-300: #67e8f9;
+  --color-tech-cyan-200: #a5f3fc;
+  --color-tech-cyan-100: #cffafe;
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
+  /* Code Green Scale - Success & code accent */
+  --color-code-green-900: #064e3b;
+  --color-code-green-800: #065f46;
+  --color-code-green-700: #047857;
+  --color-code-green-600: #059669;
+  --color-code-green-500: #00ff88;
+  --color-code-green-400: #34d399;
+  --color-code-green-300: #6ee7b7;
+  --color-code-green-200: #a7f3d0;
+  --color-code-green-100: #d1fae5;
 }
 
 body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
 }

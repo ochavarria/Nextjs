@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Engineer",
+    "law": "Law",
+    "music": "Music",
+    "diver": "Diver",
+    "traveler": "Traveler"
+  },
+  "aboutMe": {
+    "title": "About Me"
+  },
+  "facet": {
+    "experiences": "Experiences",
+    "noExperiences": "No experiences yet."
+  },
+  "home": {
+    "experience": "Experience",
+    "comingSoon": "Coming soon..."
+  },
+  "projects": {
+    "title": "Projects",
+    "comingSoon": "Coming soon...",
+    "viewDetails": "View Details",
+    "description": "Project Description",
+    "contribution": "My Contribution",
+    "visitProject": "Visit Project",
+    "viewCode": "View Code",
+    "closeModal": "Close modal"
+  },
+  "cv": {
+    "name": "Your Name",
+    "title": "Your Professional Title",
+    "experiences": {
+      "senior": {
+        "title": "Senior Software Engineer",
+        "company": "Tech Company Inc.",
+        "period": "2022 - Present",
+        "description": [
+          "Led development of scalable web applications using React and Node.js",
+          "Mentored junior developers and conducted code reviews",
+          "Improved application performance by 40% through optimization"
+        ]
+      },
+      "engineer": {
+        "title": "Software Engineer",
+        "company": "Startup Co.",
+        "period": "2020 - 2022",
+        "description": [
+          "Developed and maintained full-stack applications",
+          "Collaborated with cross-functional teams to deliver features",
+          "Implemented CI/CD pipelines for automated deployments"
+        ]
+      },
+      "junior": {
+        "title": "Junior Developer",
+        "company": "Digital Agency",
+        "period": "2018 - 2020",
+        "description": [
+          "Built responsive websites using modern web technologies",
+          "Worked with clients to understand requirements and deliver solutions",
+          "Learned and applied best practices in software development"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "About",
+    "content": "About section content goes here.",
+    "bio": "I am a passionate software engineer with expertise in modern web technologies."
+  },
+  "experience": {
+    "title": "Experience",
+    "content": "Experience section content goes here."
+  },
+  "education": {
+    "title": "Education",
+    "content": "Education section content goes here.",
+    "items": {
+      "degree1": {
+        "degree": "Bachelor of Science in Computer Science",
+        "university": "University Name",
+        "period": "2014 - 2018",
+        "description": "Relevant coursework and achievements."
+      }
+    }
+  },
+  "skills": {
+    "title": "Skills",
+    "content": "Skills section content goes here.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Tools"
+    },
+    "items": {
+      "frontend": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+      "backend": ["Node.js", "Express", "MongoDB", "REST APIs"],
+      "tools": ["Git", "Docker", "CI/CD", "AWS"]
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "content": "Contact section content goes here.",
+    "email": "your.email@example.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "City, Country"
+  }
+}

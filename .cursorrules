@@ -1,0 +1,16 @@
+# Cursor AI Configuration
+
+## Code Style Preferences
+
+- Do not add comments in code unless explicitly requested
+- Write self-documenting code with clear variable and function names
+- Keep code clean and minimal
+- Focus on functionality over documentation in code
+
+## General Guidelines
+
+- Mobile-first approach for all components
+- Component-based architecture
+- TypeScript strict mode
+- Use Tailwind CSS for styling
+

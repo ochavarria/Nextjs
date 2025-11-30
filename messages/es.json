@@ -1,0 +1,108 @@
+{
+  "nav": {
+    "home": "Ingeniero",
+    "law": "Derecho",
+    "music": "Músico",
+    "diver": "Buzo",
+    "traveler": "Viajero"
+  },
+  "aboutMe": {
+    "title": "Acerca de Mí"
+  },
+  "facet": {
+    "experiences": "Experiencias",
+    "noExperiences": "Aún no hay experiencias."
+  },
+  "home": {
+    "experience": "Experiencia",
+    "comingSoon": "Próximamente..."
+  },
+  "projects": {
+    "title": "Proyectos",
+    "comingSoon": "Próximamente...",
+    "viewDetails": "Ver Detalles",
+    "description": "Descripción del Proyecto",
+    "contribution": "Mi Contribución",
+    "visitProject": "Visitar Proyecto",
+    "viewCode": "Ver Código",
+    "closeModal": "Cerrar modal"
+  },
+  "cv": {
+    "name": "Tu Nombre",
+    "title": "Tu Título Profesional",
+    "experiences": {
+      "senior": {
+        "title": "Ingeniero de Software Senior",
+        "company": "Tech Company Inc.",
+        "period": "2022 - Presente",
+        "description": [
+          "Lideré el desarrollo de aplicaciones web escalables usando React y Node.js",
+          "Mentoricé desarrolladores junior y realicé revisiones de código",
+          "Mejoré el rendimiento de la aplicación en un 40% mediante optimización"
+        ]
+      },
+      "engineer": {
+        "title": "Ingeniero de Software",
+        "company": "Startup Co.",
+        "period": "2020 - 2022",
+        "description": [
+          "Desarrollé y mantuve aplicaciones full-stack",
+          "Colaboré con equipos multifuncionales para entregar funcionalidades",
+          "Implementé pipelines CI/CD para despliegues automatizados"
+        ]
+      },
+      "junior": {
+        "title": "Desarrollador Junior",
+        "company": "Agencia Digital",
+        "period": "2018 - 2020",
+        "description": [
+          "Construí sitios web responsivos usando tecnologías web modernas",
+          "Trabajé con clientes para entender requisitos y entregar soluciones",
+          "Aprendí y apliqué mejores prácticas en desarrollo de software"
+        ]
+      }
+    }
+  },
+  "about": {
+    "title": "Acerca de",
+    "content": "El contenido de la sección Acerca de va aquí.",
+    "bio": "Soy un ingeniero de software apasionado con experiencia en tecnologías web modernas."
+  },
+  "experience": {
+    "title": "Experiencia",
+    "content": "El contenido de la sección Experiencia va aquí."
+  },
+  "education": {
+    "title": "Educación",
+    "content": "El contenido de la sección Educación va aquí.",
+    "items": {
+      "degree1": {
+        "degree": "Licenciatura en Ciencias de la Computación",
+        "university": "Nombre de la Universidad",
+        "period": "2014 - 2018",
+        "description": "Cursos relevantes y logros."
+      }
+    }
+  },
+  "skills": {
+    "title": "Habilidades",
+    "content": "El contenido de la sección Habilidades va aquí.",
+    "categories": {
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "tools": "Herramientas"
+    },
+    "items": {
+      "frontend": ["React", "TypeScript", "Next.js", "Tailwind CSS"],
+      "backend": ["Node.js", "Express", "MongoDB", "REST APIs"],
+      "tools": ["Git", "Docker", "CI/CD", "AWS"]
+    }
+  },
+  "contact": {
+    "title": "Contacto",
+    "content": "El contenido de la sección Contacto va aquí.",
+    "email": "tu.email@ejemplo.com",
+    "phone": "+1 (555) 123-4567",
+    "location": "Ciudad, País"
+  }
+}
