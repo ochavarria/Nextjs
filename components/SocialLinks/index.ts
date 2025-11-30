@@ -1,3 +1,3 @@
 export { default } from './SocialLinks'
-export type { SocialLinksProps, SocialIcon } from './types'
+export type { SocialLinksProps, SocialIconConfig } from './types'
 

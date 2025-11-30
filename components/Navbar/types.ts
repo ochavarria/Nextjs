@@ -13,7 +13,7 @@ export interface NavItemProps {
 
 import { Link } from '@/navigation'
 
-export interface NavLogoProps extends React.ComponentProps<typeof Link> {}
+export interface NavLogoProps extends Omit<React.ComponentProps<typeof Link>, 'href'> {}
 
 export interface MenuButtonProps extends React.ComponentProps<'button'> {
   isOpen: boolean
